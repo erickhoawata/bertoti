@@ -5,3 +5,5 @@
 <p align="center">
   Esse cronômetro não corresponde ao padrão e as expectativas do usuário.
 </p>
+
+![image](https://github.com/erickhoawata/bertoti/assets/126245787/c5025744-7903-4fe3-bc9f-c3eb0d5ee7f3)
