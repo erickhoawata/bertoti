@@ -12,9 +12,9 @@ public class HomeTheaterFacade {
     public void iniciarFilme(String nomeFilme) {
         System.out.println("Iniciando a experiencia de cinema em casa...");
         televisao.ligar();
-        televisao.ajustarCanal(101); // Canal do filme
+        televisao.ajustarCanal(101); 
         sistemaDeSom.ligar();
-        sistemaDeSom.ajustarVolume(15); // Volume médio
+        sistemaDeSom.ajustarVolume(15); 
         leitorDeDVD.ligar();
         leitorDeDVD.tocarFilme(nomeFilme);
     }
